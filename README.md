@@ -1,2 +1,2 @@
 
-customized & responsive scroll indicator use javascript
+customized & responsive scroll indicator use javascript $ css
